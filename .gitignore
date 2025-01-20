@@ -110,3 +110,11 @@ venv.bak/
 *__solved*
 *__draft*
 testing/
+
+*/notMNIST_small
+
+HW/1_intro/catboost_info/
+
+HW/9_resnet/data
+
+HW/10_overfitting/FashionMNIST
